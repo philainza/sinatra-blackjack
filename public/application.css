@@ -1,0 +1,71 @@
+form#hit_form {
+  display: inline;
+  margin-right: 10px;
+}
+
+form#stay_form {
+  display: inline;
+}
+
+img.card_image {
+  margin: 0px 5px 5px 0px;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.nav {
+  padding-top: 5px;
+}
+
+#button {
+  margin: 5px;
+}
+
+#new_player_form {
+  margin: 5px;
+}
+
+.cards {
+  text-align: center;
+}
+
+p.total {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+p#welcome {
+  font-size: 16px;
+}
+
+#button_group {
+  margin: 50px;
+}
+
+#bet_page {
+  text-align: center;
+}
+
+#bet_button {
+  margin: 5px;
+}
+
+#bet_button:hover {
+  background-color: green;
+  color: white;
+}
+
+#game_over {
+  text-align: center;
+}
+
+
+
+
